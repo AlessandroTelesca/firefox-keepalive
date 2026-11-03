@@ -1,0 +1,14 @@
+{
+  "uuid": "firefox-keepalive@alessandrot",
+  "name": "Firefox Keepalive",
+  "description": "Keeps Firefox resident with one hidden private window (hidden from the dock, overview and Alt+Tab) and relaunches it if Firefox quits, so dock clicks open a new window instantly.",
+  "session-modes": [
+    "user",
+    "unlock-dialog"
+  ],
+  "shell-version": [
+    "50"
+  ],
+  "version": 2,
+  "url": "https://github.com/AlessandroTelesca/firefox-keepalive"
+}
